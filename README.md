@@ -1,6 +1,6 @@
 # 📊 SaaS Analyze - Meritech Index Tracker
 
-This project automatically scrapes and tracks daily SaaS company metrics from the [Meritech Capital Comps](https://www.meritechcapital.com/saas-companies) page.
+This project automatically scrapes and tracks daily SaaS company metrics from the [Meritech Capital Comps](https://www.meritechcapital.com/benchmarking/comps-table) page.
 
 Each day, a GitHub Action runs a script that:
 - Scrapes updated valuation data from the site using Selenium + BeautifulSoup
